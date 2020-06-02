@@ -1,6 +1,6 @@
 module.exports = {
     css: { extract: false },
-    publicPath: '/ChurchPayNowQR/assets',
+    publicPath: '/SSAPayNowQR/assets',
     indexPath:"../index.html",
     outputDir:'assets',
     filenameHashing: false
