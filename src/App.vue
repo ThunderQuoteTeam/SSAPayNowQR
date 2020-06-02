@@ -41,8 +41,7 @@
                 </a>
               </div>
             </div>
-            <h3 class="text-center mb-0 mt-2">Church PayNow QR Code Generator
-(BSS-HIA-TQ)</h3>
+            <h3 class="text-center mb-0 mt-2">SSA TQ PayNow QR Code Generator</h3>
             
           </div>
           <div class="main-box full-width full-height">
@@ -625,8 +624,7 @@
                       </div>
                     </div>
                     <h3 class="text-center">
-                      <div>Church PayNow QR Code Generator</div>
-                      <div>(BSS-HIA-TQ)</div>
+                      <div>SSA TQ PayNow QR Code Generator</div>
                     </h3>
                     
                     
