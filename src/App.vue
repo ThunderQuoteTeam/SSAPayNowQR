@@ -604,7 +604,7 @@
             
             <div class="new-box-container flex-column mb-5 d-flex justify-content-center align-items-center">
                 <div class="new-box px-4 pb-4" >
-                  <div class="d-flex justify-content-center align-items-center mb-0 my-4 flex-column">
+                  <div class="d-flex justify-content-center mb-0 my-4 flex-column" :class="qrForm.uen ?'align-items-start  ml-5' : 'align-items-center'">
                     <h3 class="text-center">
                       <div>SSA TQ PayNow QR Code Generator</div>
                     </h3>
